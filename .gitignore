@@ -1,2 +1,5 @@
 reports
 results
+*.pyc
+__pycache__/
+.cache/
