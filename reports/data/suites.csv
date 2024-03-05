@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Mar 05 14:31:57 EET 2024","Tue Mar 05 14:32:04 EET 2024","6749","tests","test_smoke","TestLoginLogout","","","test_logout",""
+"passed","Tue Mar 05 14:31:44 EET 2024","Tue Mar 05 14:31:44 EET 2024","8","tests","test_smoke","TestLoginLogout","","","test_login",""
+"passed","Tue Mar 05 14:32:17 EET 2024","Tue Mar 05 14:32:17 EET 2024","296","tests","test_smoke","TestLoginLogout","","","test_search",""
